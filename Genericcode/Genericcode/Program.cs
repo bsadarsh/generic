@@ -10,6 +10,9 @@ namespace Genericcode
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("merger commit");
+            Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
